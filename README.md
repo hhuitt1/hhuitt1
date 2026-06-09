@@ -64,6 +64,10 @@ SQL and Tableau dashboard evaluating staffing performance, attraction downtime, 
 - IBM Cognos Analytics
 - Data Storytelling & Visualization
 
+## Upcoming Projects
+
+- People Analytics & Attrition Dashboard
+
 ## Career Focus
 
 - Data Analytics
