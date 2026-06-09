@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 Aspiring Data Analyst transitioning from luxury hospitality, accounting, and operations management. Experienced in guest experience analytics, financial reporting, process improvement, and team leadership. Passionate about transforming operational data into actionable business insights through SQL, Tableau, and data visualization.
 
+[📊 Tableau Public Portfolio](https://public.tableau.com/app/profile/haley.huitt/vizzes)
+
 ## Technical Skills
 
 - SQL (SQLite)
@@ -39,19 +41,33 @@ Aspiring Data Analyst transitioning from luxury hospitality, accounting, and ope
   
 ## Featured Projects
 
-### [Luxury Resort Guest Experience & Operations Analysis](https://github.com/hhuitt1/luxury-resort-guest-experience-analysis)
-SQL and Tableau project analyzing guest satisfaction, complaint trends, wait times, and service recovery effectiveness.
+### 📊 [Luxury Resort Guest Experience & Operations Analysis](https://github.com/hhuitt1/luxury-resort-guest-experience-analysis)
+End-to-end SQL and Tableau project analyzing guest satisfaction, complaint trends, wait times, and service recovery effectiveness across a fictional luxury resort portfolio. Includes business recommendations and interactive dashboards.
 
-### [Guest Experience Operational Analytics](https://github.com/hhuitt1/guest-experience-operational-analysis)
-Interactive dashboard evaluating staffing, complaints, attraction downtime, and guest satisfaction trends.
+**Tools:** SQLite, Tableau, Data Visualization
 
-[📊 Tableau Public Portfolio](https://public.tableau.com/app/profile/haley.huitt/vizzes)
+**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/LuxuryResortGuestExperienceOperations/Dashboard1)
+
+### 🎢 [Guest Experience Operational Analytics](https://github.com/hhuitt1/guest-experience-operational-analysis)
+SQL and Tableau dashboard evaluating staffing performance, attraction downtime, guest complaints, and satisfaction trends to identify operational improvement opportunities.
+
+**Tools:** SQLite, Tableau, Data Visualization
+
+**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/GuestExperienceOperationalPerformanceDashboard/Dashboard1)
 
 ## Currently Learning
 
 - Advanced SQL
 - Tableau Dashboard Design
-- Data Storytelling
+- Python for Data Analysis
 - Business Analytics
-- Python
-- Cognos
+- IBM Cognos Analytics
+- Data Storytelling & Visualization
+
+## Career Focus
+
+- Data Analytics
+- Business Intelligence
+- Operations Analytics
+- Guest Experience Analytics
+- Hospitality Analytics
