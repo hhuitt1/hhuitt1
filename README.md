@@ -39,10 +39,10 @@ Aspiring Data Analyst transitioning from luxury hospitality, accounting, and ope
   
 ## Featured Projects
 
-### Luxury Resort Guest Experience & Operations Analysis
+### [Luxury Resort Guest Experience & Operations Analysis](https://github.com/hhuitt1/luxury-resort-guest-experience-analysis)
 SQL and Tableau project analyzing guest satisfaction, complaint trends, wait times, and service recovery effectiveness.
 
-### Guest Experience Operational Analytics
+### [Guest Experience Operational Analytics](https://github.com/hhuitt1/guest-experience-operational-analysis)
 Interactive dashboard evaluating staffing, complaints, attraction downtime, and guest satisfaction trends.
 
 [📊 Tableau Public Portfolio](https://public.tableau.com/app/profile/haley.huitt/vizzes)
