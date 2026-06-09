@@ -8,7 +8,7 @@
 Aspiring Data Analyst | SQL | Tableau | Operations Analytics
 </p>
 
-## Hi there 👋
+## About Me 👋
 
 <!--
 **hhuitt1/hhuitt1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
