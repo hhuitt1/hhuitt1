@@ -73,7 +73,7 @@ SQL and Tableau dashboard evaluating staffing performance, attraction downtime, 
 
 ## Upcoming Projects
 
-- Revenue Management & Demand Forecasting Dashboard
+- Revenue Management & Demand Forecasting Analysis
 
 ## Career Focus
 
