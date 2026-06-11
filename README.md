@@ -48,19 +48,19 @@ End-to-end SQL and Tableau project analyzing guest satisfaction, complaint trend
 
 **Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/LuxuryResortGuestExperienceOperations/Dashboard1)
 
+### 👥 [People Analytics & Employee Attrition Analysis](https://github.com/hhuitt1/people_analytics_employee_attrition)
+Built an end-to-end People Analytics project using SQL and Tableau to analyze employee attrition, engagement, satisfaction, tenure, work arrangements, and retention trends across 5,000 fictional employee records. Developed an interactive dashboard with actionable workforce insights and retention recommendations.
+
+**Tools:** SQLite, Tableau, Excel, Data Visualization
+
+**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/PeopleAnalyticsEmployeeAttritionDashboard/Dashboard1)
+
 ### 🎢 [Guest Experience Operational Analytics](https://github.com/hhuitt1/guest-experience-operational-analysis)
 SQL and Tableau dashboard evaluating staffing performance, attraction downtime, guest complaints, and satisfaction trends to identify operational improvement opportunities.
 
 **Tools:** SQLite, Tableau, Excel, Data Visualization
 
 **Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/GuestExperienceOperationalPerformanceDashboard/Dashboard1)
-
-### 👥 [People Analytics & Emplpoyee Attrition Analysis](https://github.com/hhuitt1/people_analytics_employee_attrition)
-Built an end-to-end People Analytics project using SQL and Tableau to analyze employee attrition, engagement, satisfaction, tenure, work arrangements, and retention trends across 5,000 fictional employee records. Developed an interactive dashboard with actionable workforce insights and retention recommendations.
-
-**Tools:** SQLite, Tableau, Excel, Data Visualization
-
-**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/PeopleAnalyticsEmployeeAttritionDashboard/Dashboard1)
 
 ## Currently Learning
 
