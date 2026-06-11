@@ -53,14 +53,14 @@ SQL and Tableau dashboard evaluating staffing performance, attraction downtime, 
 
 **Tools:** SQLite, Tableau, Excel, Data Visualization
 
-**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/PeopleAnalyticsEmployeeAttritionDashboard/Dashboard1)
+**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/LuxuryResortGuestExperienceOperations/Dashboard1)
 
-### 👥 [People Analytics & Emplpoyee Attrition Analysis](https://github.com/hhuitt1/luxury-resort-guest-experience-analysis)
+### 👥 [People Analytics & Emplpoyee Attrition Analysis](https://github.com/hhuitt1/people_analytics_employee_attrition)
 Built an end-to-end People Analytics project using SQL and Tableau to analyze employee attrition, engagement, satisfaction, tenure, work arrangements, and retention trends across 5,000 fictional employee records. Developed an interactive dashboard with actionable workforce insights and retention recommendations.
 
 **Tools:** SQLite, Tableau, Excel, Data Visualization
 
-**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/LuxuryResortGuestExperienceOperations/Dashboard1)
+**Tableau Dashboard:** [View Dashboard](https://public.tableau.com/app/profile/haley.huitt/viz/PeopleAnalyticsEmployeeAttritionDashboard/Dashboard1)
 
 ## Currently Learning
 
